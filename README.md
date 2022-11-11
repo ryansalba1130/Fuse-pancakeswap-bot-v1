@@ -17,7 +17,7 @@ Run `yarn` to install dependencies.
 
 ## Test
 
-Run `yarn test` to execute the test suite.
+Run `yarn start` to execute the test suite.
 
 ## Usage
 
