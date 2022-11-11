@@ -1,4 +1,4 @@
-# About The Fuse Pancakeswap Bot
+# About Fuse Pancake Swap Bot
 
 Decentralized market is too volatile to trade, So I have come up with this BOT so you can get more profit by selling and buying tokens at better prices, also the trade will be executed in seconds.
 
